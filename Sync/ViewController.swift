@@ -11,7 +11,7 @@
 
 // git commands
 // git commit -am "message"
-// git push
+// git push origin master
 // git pull
 
 import UIKit
