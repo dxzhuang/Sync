@@ -9,6 +9,11 @@
 // Ideas
 // We could potentially increase the logo layer's size for smaller blocks, and decrease it for larger blocks
 
+// git commands
+// git commit -am "message"
+// git push
+// git pull
+
 import UIKit
 import Firebase
 
